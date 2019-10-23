@@ -1,0 +1,12 @@
+{
+  "name": "basic-nodejs-app",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "BasicNodejsApp"
+}
